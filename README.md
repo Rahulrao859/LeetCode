@@ -1,5 +1,5 @@
 # LeetCode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+A collection of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -8,7 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Rahulrao859/LeetCode/tree/master/0050-powx-n) |
 | [2752-sum-multiples](https://github.com/Rahulrao859/LeetCode/tree/master/2752-sum-multiples) |
-## Recursion
+## Recursion 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Rahulrao859/LeetCode/tree/master/0050-powx-n) |
