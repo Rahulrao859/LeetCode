@@ -22,8 +22,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Rahulrao859/LeetCode/tree/master/0278-first-bad-version) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Rahulrao859/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Rahulrao859/LeetCode/tree/master/0278-first-bad-version) |
+## Array
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Rahulrao859/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
