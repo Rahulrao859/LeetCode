@@ -31,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Rahulrao859/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Rahulrao859/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 <!---LeetCode Topics End-->
