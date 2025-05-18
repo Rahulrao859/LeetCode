@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Rahulrao859/LeetCode/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/Rahulrao859/LeetCode/tree/master/0258-add-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rahulrao859/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Rahulrao859/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/Rahulrao859/LeetCode/tree/master/2752-sum-multiples) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Rahulrao859/LeetCode/tree/master/0258-add-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rahulrao859/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Binary Search
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rahulrao859/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Rahulrao859/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
