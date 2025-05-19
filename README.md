@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rahulrao859/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Rahulrao859/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/Rahulrao859/LeetCode/tree/master/2752-sum-multiples) |
+| [3321-type-of-triangle](https://github.com/Rahulrao859/LeetCode/tree/master/3321-type-of-triangle) |
 ## Recursion 
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2486-most-frequent-even-element](https://github.com/Rahulrao859/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Rahulrao859/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Rahulrao859/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3321-type-of-triangle](https://github.com/Rahulrao859/LeetCode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Rahulrao859/LeetCode/tree/master/0075-sort-colors) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rahulrao859/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Rahulrao859/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3321-type-of-triangle](https://github.com/Rahulrao859/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
