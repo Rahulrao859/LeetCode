@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rahulrao859/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rahulrao859/LeetCode/tree/master/0075-sort-colors) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rahulrao859/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Rahulrao859/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rahulrao859/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rahulrao859/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2486-most-frequent-even-element](https://github.com/Rahulrao859/LeetCode/tree/master/2486-most-frequent-even-element) |
 ## Number Theory
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2486-most-frequent-even-element](https://github.com/Rahulrao859/LeetCode/tree/master/2486-most-frequent-even-element) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rahulrao859/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
