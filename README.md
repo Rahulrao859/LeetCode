@@ -84,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Rahulrao859/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/Rahulrao859/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 <!---LeetCode Topics End-->
