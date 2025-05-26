@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rahulrao859/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2486-most-frequent-even-element](https://github.com/Rahulrao859/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Rahulrao859/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Rahulrao859/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Rahulrao859/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Rahulrao859/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/Rahulrao859/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Rahulrao859/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3194-find-words-containing-character](https://github.com/Rahulrao859/LeetCode/tree/master/3194-find-words-containing-character) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Rahulrao859/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
