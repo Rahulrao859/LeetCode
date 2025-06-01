@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0050-powx-n](https://github.com/Rahulrao859/LeetCode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/Rahulrao859/LeetCode/tree/master/0258-add-digits) |
+| [0492-construct-the-rectangle](https://github.com/Rahulrao859/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0897-prime-palindrome](https://github.com/Rahulrao859/LeetCode/tree/master/0897-prime-palindrome) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rahulrao859/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Rahulrao859/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
