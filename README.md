@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2752-sum-multiples](https://github.com/Rahulrao859/LeetCode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Rahulrao859/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/Rahulrao859/LeetCode/tree/master/3321-type-of-triangle) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Rahulrao859/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Recursion 
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Rahulrao859/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/Rahulrao859/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Rahulrao859/LeetCode/tree/master/3321-type-of-triangle) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Rahulrao859/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
 | ------- |
