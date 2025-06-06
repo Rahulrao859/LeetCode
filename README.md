@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/Rahulrao859/LeetCode/tree/master/0258-add-digits) |
 | [0492-construct-the-rectangle](https://github.com/Rahulrao859/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0897-prime-palindrome](https://github.com/Rahulrao859/LeetCode/tree/master/0897-prime-palindrome) |
+| [1806-count-of-matches-in-tournament](https://github.com/Rahulrao859/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rahulrao859/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Rahulrao859/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/Rahulrao859/LeetCode/tree/master/2752-sum-multiples) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rahulrao859/LeetCode/tree/master/0258-add-digits) |
+| [1806-count-of-matches-in-tournament](https://github.com/Rahulrao859/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rahulrao859/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rahulrao859/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Binary Search
