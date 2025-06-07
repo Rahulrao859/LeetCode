@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Rahulrao859/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rahulrao859/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Rahulrao859/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/Rahulrao859/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rahulrao859/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rahulrao859/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Rahulrao859/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2486-most-frequent-even-element](https://github.com/Rahulrao859/LeetCode/tree/master/2486-most-frequent-even-element) |
 ## Matrix
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rahulrao859/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Rahulrao859/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Rahulrao859/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Rahulrao859/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Rahulrao859/LeetCode/tree/master/0940-fruit-into-baskets) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rahulrao859/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
