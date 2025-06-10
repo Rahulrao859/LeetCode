@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0050-powx-n](https://github.com/Rahulrao859/LeetCode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/Rahulrao859/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Rahulrao859/LeetCode/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/Rahulrao859/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0897-prime-palindrome](https://github.com/Rahulrao859/LeetCode/tree/master/0897-prime-palindrome) |
 | [1806-count-of-matches-in-tournament](https://github.com/Rahulrao859/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rahulrao859/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Rahulrao859/LeetCode/tree/master/0412-fizz-buzz) |
 | [1806-count-of-matches-in-tournament](https://github.com/Rahulrao859/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rahulrao859/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rahulrao859/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulrao859/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Rahulrao859/LeetCode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Rahulrao859/LeetCode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/Rahulrao859/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Rahulrao859/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Rahulrao859/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
