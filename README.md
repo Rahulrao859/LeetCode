@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Rahulrao859/LeetCode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulrao859/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Rahulrao859/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Rahulrao859/LeetCode/tree/master/0412-fizz-buzz) |
