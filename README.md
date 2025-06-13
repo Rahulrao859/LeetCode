@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Rahulrao859/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0383-ransom-note](https://github.com/Rahulrao859/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulrao859/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Rahulrao859/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/Rahulrao859/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Rahulrao859/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulrao859/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Rahulrao859/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2486-most-frequent-even-element](https://github.com/Rahulrao859/LeetCode/tree/master/2486-most-frequent-even-element) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Rahulrao859/LeetCode/tree/master/0058-length-of-last-word) |
+| [0383-ransom-note](https://github.com/Rahulrao859/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulrao859/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Rahulrao859/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Rahulrao859/LeetCode/tree/master/0412-fizz-buzz) |
