@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Rahulrao859/LeetCode/tree/master/0050-powx-n) |
+| [0171-excel-sheet-column-number](https://github.com/Rahulrao859/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/Rahulrao859/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rahulrao859/LeetCode/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/Rahulrao859/LeetCode/tree/master/0492-construct-the-rectangle) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Rahulrao859/LeetCode/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/Rahulrao859/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Rahulrao859/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Rahulrao859/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulrao859/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
