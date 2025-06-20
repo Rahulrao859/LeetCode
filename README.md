@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Rahulrao859/LeetCode/tree/master/0075-sort-colors) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rahulrao859/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Rahulrao859/LeetCode/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/Rahulrao859/LeetCode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Rahulrao859/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0940-fruit-into-baskets](https://github.com/Rahulrao859/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rahulrao859/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/Rahulrao859/LeetCode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Rahulrao859/LeetCode/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/Rahulrao859/LeetCode/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rahulrao859/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rahulrao859/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Rahulrao859/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/Rahulrao859/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rahulrao859/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/Rahulrao859/LeetCode/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/Rahulrao859/LeetCode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/Rahulrao859/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/Rahulrao859/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rahulrao859/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Rahulrao859/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Rahulrao859/LeetCode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
