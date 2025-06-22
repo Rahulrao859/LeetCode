@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/Rahulrao859/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rahulrao859/LeetCode/tree/master/0412-fizz-buzz) |
 | [1806-count-of-matches-in-tournament](https://github.com/Rahulrao859/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Rahulrao859/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rahulrao859/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rahulrao859/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Binary Search
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0782-jewels-and-stones](https://github.com/Rahulrao859/LeetCode/tree/master/0782-jewels-and-stones) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Rahulrao859/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Rahulrao859/LeetCode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Rahulrao859/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3194-find-words-containing-character](https://github.com/Rahulrao859/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Enumeration
 |  |
