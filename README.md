@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/Rahulrao859/LeetCode/tree/master/0412-fizz-buzz) |
 | [0492-construct-the-rectangle](https://github.com/Rahulrao859/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [0897-prime-palindrome](https://github.com/Rahulrao859/LeetCode/tree/master/0897-prime-palindrome) |
+| [0944-smallest-range-i](https://github.com/Rahulrao859/LeetCode/tree/master/0944-smallest-range-i) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rahulrao859/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1806-count-of-matches-in-tournament](https://github.com/Rahulrao859/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Rahulrao859/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/Rahulrao859/LeetCode/tree/master/0645-set-mismatch) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Rahulrao859/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0940-fruit-into-baskets](https://github.com/Rahulrao859/LeetCode/tree/master/0940-fruit-into-baskets) |
+| [0944-smallest-range-i](https://github.com/Rahulrao859/LeetCode/tree/master/0944-smallest-range-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rahulrao859/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rahulrao859/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rahulrao859/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
