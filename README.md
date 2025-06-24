@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2215-finding-3-digit-even-numbers](https://github.com/Rahulrao859/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rahulrao859/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Rahulrao859/LeetCode/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Rahulrao859/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2486-most-frequent-even-element](https://github.com/Rahulrao859/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Rahulrao859/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Rahulrao859/LeetCode/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/Rahulrao859/LeetCode/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rahulrao859/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rahulrao859/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Rahulrao859/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Rahulrao859/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
