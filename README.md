@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/Rahulrao859/LeetCode/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/Rahulrao859/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Rahulrao859/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rahulrao859/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Rahulrao859/LeetCode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Rahulrao859/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Rahulrao859/LeetCode/tree/master/0645-set-mismatch) |
+## Linked List
+|  |
+| ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rahulrao859/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
